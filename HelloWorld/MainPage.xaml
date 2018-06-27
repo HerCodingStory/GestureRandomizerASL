@@ -5,15 +5,17 @@
     xmlns:local="using:HelloWorld"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    mc:Ignorable="d">
+    mc:Ignorable="d" Width="1200" Height="1200">
 
-    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" RequestedTheme="Dark">
-        <Button x:Name="button" Content="Randomize" HorizontalAlignment="Right" Margin="0,0,10,20" VerticalAlignment="Bottom" Click="button_Click" Height="36" Width="99" RequestedTheme="Dark" Background="#3300AEFF"/>
-        <Image x:Name="image" Margin="10,0,0,20" RequestedTheme="Light" HorizontalAlignment="Left">
-            <Image.Source>
-                <BitmapImage UriSource="ms-appx:///HelloWorld/Assets/Images/1.png" />
-            </Image.Source>
-        </Image>
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" RequestedTheme="Dark" BorderThickness="4">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="73*"/>
+            <ColumnDefinition Width="7*"/>
+        </Grid.ColumnDefinitions>
+
+        <Image x:Name="imgASL" HorizontalAlignment="Left" Height="609" Margin="191,196,0,0" VerticalAlignment="Top" Width="642"/>
+        <Button x:Name="button" Content="Randomize" HorizontalAlignment="Right" Margin="0,0,6,303" VerticalAlignment="Bottom" Click="button_Click" Height="160" Width="290" RequestedTheme="Dark" Background="#3300AEFF" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="199,861,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="638" TextChanged="textBox_TextChanged" IsReadOnly="True"/>
 
     </Grid>
 </Page>

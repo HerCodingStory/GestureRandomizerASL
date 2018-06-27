@@ -1,18 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Runtime.InteropServices.WindowsRuntime;
-using Windows.Foundation;
-using Windows.Foundation.Collections;
+using System.Threading.Tasks;
+using Windows.Storage;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
-using Windows.UI.Xaml.Controls.Primitives;
-using Windows.UI.Xaml.Data;
-using Windows.UI.Xaml.Input;
-using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Media.Imaging;
-using Windows.UI.Xaml.Navigation;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
@@ -23,26 +16,63 @@ namespace HelloWorld
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        private List<BitmapImage> imagesASL;
+
+
         public MainPage()
         {
             this.InitializeComponent();
+            ImageGenerator();
+        }
+
+        private async Task<int> getTotalNumberOfImages()
+        {
+            StorageFolder appInstalledFolder = Windows.ApplicationModel.Package.Current.InstalledLocation;
+            StorageFolder assets = await appInstalledFolder.GetFolderAsync("Assets");
+            StorageFolder images = await assets.GetFolderAsync("Images");
+
+            var files = await images.GetFilesAsync();
+            return files.Count;
+        }
+        private List<int> generateRandom(int gestureListSize)
+        {
+            Random rnd = new Random();
+            List<int> randomNumbers = Enumerable.Range(1, gestureListSize).OrderBy(x => rnd.Next()).ToList();
+
+            return randomNumbers;
+        }
+
+        private async void ImageGenerator()
+        {
+            imagesASL = new List<BitmapImage>();
+
+            Task<int> getTotalImagesTask = getTotalNumberOfImages();
+            int totalNumberOfImages = await getTotalImagesTask;
+
+            List<int> gestureList = generateRandom(totalNumberOfImages);
+
+            foreach (int number in gestureList)
+            {
+                imagesASL.Add(new BitmapImage(new Uri("ms-appx:///Assets/Images/" + number + ".png")));
+            }
         }
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            Random random = new Random();
-            int imageNumber = random.Next(1, 4);
-            Image image = new Image();
-            BitmapImage bmImage = new BitmapImage();
+            imgASL.Source = imagesASL.FirstOrDefault();
+            imagesASL.RemoveAt(0);
 
-            //bmImage.BeginInit();
+            if(imagesASL.Count == 0)
+            {
+                ImageGenerator();
+                textBox.Text = "End of Experiment";
 
-            bmImage.UriSource = new Uri("ms-appx:///HelloWorld/Assets/Images/" + imageNumber + ".png");
+            }
+        }
 
-            //bmImage.EndInit();
-
-            image.Source = bmImage;
-
+        private void textBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            textBox.Text = "";
         }
     }
 }

@@ -28,13 +28,13 @@
     <AppXManifest Include="d:\documents\visual studio 2015\Projects\HelloWorld\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T00:42:40.043</Modified>
+      <Modified>2018-06-27T21:01:23.290</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="d:\documents\visual studio 2015\Projects\HelloWorld\bin\x86\Debug\HelloWorld.exe">
       <PackagePath>entrypoint\HelloWorld.exe</PackagePath>
-      <Modified>2018-06-26T00:42:39.374</Modified>
+      <Modified>2018-06-27T21:01:22.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Francisco\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -509,11 +509,11 @@
     <AppxPackagedFile Include="d:\documents\visual studio 2015\Projects\HelloWorld\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-26T00:42:39.843</Modified>
+      <Modified>2018-06-27T21:01:23.009</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="d:\documents\visual studio 2015\Projects\HelloWorld\bin\x86\Debug\Core\HelloWorld.exe">
       <PackagePath>HelloWorld.exe</PackagePath>
-      <Modified>2018-06-26T00:42:40.041</Modified>
+      <Modified>2018-06-27T21:01:23.288</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
