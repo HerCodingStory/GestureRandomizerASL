@@ -1,1 +1,1 @@
-D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\ASLGestureRandomizer.csproj;arm
+C:\Users\crist\OneDrive\Documentos\workspace\GitHub\GestureRandomizerASL\GestureRandomizerASL\ASLGestureRandomizer.csproj;arm
