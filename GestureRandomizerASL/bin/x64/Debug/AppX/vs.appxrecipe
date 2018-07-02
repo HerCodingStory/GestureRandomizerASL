@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>567199e4-cd61-4f24-8c43-e203cee082e4</PackageIdentityName>
     <PackageIdentityPublisher>CN=Francisco</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-02T19:27:23.504</Modified>
+      <Modified>2018-07-02T20:01:31.477</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\bin\x64\Debug\HelloWorld.exe">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\bin\x64\Debug\HelloWorld.exe">
       <PackagePath>entrypoint\HelloWorld.exe</PackagePath>
-      <Modified>2018-07-02T19:27:22.536</Modified>
+      <Modified>2018-07-02T20:01:30.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Francisco\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -448,184 +448,184 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-23T03:11:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\1.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\1.png">
       <PackagePath>Assets\Images\1.png</PackagePath>
-      <Modified>2018-06-25T21:46:06.964</Modified>
+      <Modified>2018-07-02T19:59:17.529</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\10.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\10.png">
       <PackagePath>Assets\Images\10.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.631</Modified>
+      <Modified>2018-07-02T19:59:17.530</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\11.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\11.png">
       <PackagePath>Assets\Images\11.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.632</Modified>
+      <Modified>2018-07-02T19:59:17.532</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\12.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\12.png">
       <PackagePath>Assets\Images\12.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.634</Modified>
+      <Modified>2018-07-02T19:59:17.534</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\13.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\13.png">
       <PackagePath>Assets\Images\13.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.635</Modified>
+      <Modified>2018-07-02T19:59:17.535</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\14.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\14.png">
       <PackagePath>Assets\Images\14.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.636</Modified>
+      <Modified>2018-07-02T19:59:17.537</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\15.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\15.png">
       <PackagePath>Assets\Images\15.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.637</Modified>
+      <Modified>2018-07-02T19:59:17.539</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\16.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\16.png">
       <PackagePath>Assets\Images\16.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.638</Modified>
+      <Modified>2018-07-02T19:59:17.540</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\17.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\17.png">
       <PackagePath>Assets\Images\17.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.639</Modified>
+      <Modified>2018-07-02T19:59:17.542</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\18.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\18.png">
       <PackagePath>Assets\Images\18.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.641</Modified>
+      <Modified>2018-07-02T19:59:17.544</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\19.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\19.png">
       <PackagePath>Assets\Images\19.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.642</Modified>
+      <Modified>2018-07-02T19:59:17.546</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\2.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\2.png">
       <PackagePath>Assets\Images\2.png</PackagePath>
-      <Modified>2018-06-25T21:50:12.033</Modified>
+      <Modified>2018-07-02T19:59:17.548</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\20.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\20.png">
       <PackagePath>Assets\Images\20.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.643</Modified>
+      <Modified>2018-07-02T19:59:17.549</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\21.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\21.png">
       <PackagePath>Assets\Images\21.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.644</Modified>
+      <Modified>2018-07-02T19:59:17.552</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\22.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\22.png">
       <PackagePath>Assets\Images\22.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.645</Modified>
+      <Modified>2018-07-02T19:59:17.554</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\23.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\23.png">
       <PackagePath>Assets\Images\23.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.647</Modified>
+      <Modified>2018-07-02T19:59:17.556</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\24.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\24.png">
       <PackagePath>Assets\Images\24.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.648</Modified>
+      <Modified>2018-07-02T19:59:17.558</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\25.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\25.png">
       <PackagePath>Assets\Images\25.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.649</Modified>
+      <Modified>2018-07-02T19:59:17.560</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\26.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\26.png">
       <PackagePath>Assets\Images\26.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.650</Modified>
+      <Modified>2018-07-02T19:59:17.561</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\27.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\27.png">
       <PackagePath>Assets\Images\27.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.651</Modified>
+      <Modified>2018-07-02T19:59:17.564</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\28.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\28.png">
       <PackagePath>Assets\Images\28.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.653</Modified>
+      <Modified>2018-07-02T19:59:17.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\29.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\29.png">
       <PackagePath>Assets\Images\29.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.654</Modified>
+      <Modified>2018-07-02T19:59:17.569</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\3.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\3.png">
       <PackagePath>Assets\Images\3.png</PackagePath>
-      <Modified>2018-06-25T21:50:12.036</Modified>
+      <Modified>2018-07-02T19:59:17.570</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\30.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\30.png">
       <PackagePath>Assets\Images\30.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.655</Modified>
+      <Modified>2018-07-02T19:59:17.572</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\31.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\31.png">
       <PackagePath>Assets\Images\31.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.656</Modified>
+      <Modified>2018-07-02T19:59:17.575</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\4.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\4.png">
       <PackagePath>Assets\Images\4.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.623</Modified>
+      <Modified>2018-07-02T19:59:17.577</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\5.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\5.png">
       <PackagePath>Assets\Images\5.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.624</Modified>
+      <Modified>2018-07-02T19:59:17.578</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\6.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\6.png">
       <PackagePath>Assets\Images\6.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.626</Modified>
+      <Modified>2018-07-02T19:59:17.580</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\7.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\7.png">
       <PackagePath>Assets\Images\7.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.627</Modified>
+      <Modified>2018-07-02T19:59:17.583</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\8.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\8.png">
       <PackagePath>Assets\Images\8.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.629</Modified>
+      <Modified>2018-07-02T19:59:17.585</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Images\9.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Images\9.png">
       <PackagePath>Assets\Images\9.png</PackagePath>
-      <Modified>2018-06-29T22:25:59.630</Modified>
+      <Modified>2018-07-02T19:59:17.586</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2015-09-20T21:30:08.000</Modified>
+      <Modified>2018-07-02T19:59:17.588</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-20T21:30:08.000</Modified>
+      <Modified>2018-07-02T19:59:17.589</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-20T21:30:08.000</Modified>
+      <Modified>2018-07-02T19:59:17.590</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-20T21:30:08.000</Modified>
+      <Modified>2018-07-02T19:59:17.591</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-20T21:30:08.000</Modified>
+      <Modified>2018-07-02T19:59:17.593</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-20T21:30:08.000</Modified>
+      <Modified>2018-07-02T19:59:17.594</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-20T21:30:08.000</Modified>
+      <Modified>2018-07-02T19:59:17.595</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2018-06-22T16:48:48.891</Modified>
+      <Modified>2018-07-02T19:59:17.611</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\bin\x64\Debug\HelloWorld.xr.xml">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\bin\x64\Debug\HelloWorld.xr.xml">
       <PackagePath>HelloWorld.xr.xml</PackagePath>
-      <Modified>2018-07-02T19:27:22.428</Modified>
+      <Modified>2018-07-02T19:59:27.825</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2016-10-26T04:26:12.127</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-07-02T19:27:23.328</Modified>
+      <Modified>2018-07-02T20:01:31.141</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Github\PictureRandomizer\GestureRandomizerASL\bin\x64\Debug\Core\HelloWorld.exe">
+    <AppxPackagedFile Include="D:\Documents\Github\GestureRandomizerASL\GestureRandomizerASL\bin\x64\Debug\Core\HelloWorld.exe">
       <PackagePath>HelloWorld.exe</PackagePath>
-      <Modified>2018-07-02T19:27:23.503</Modified>
+      <Modified>2018-07-02T20:01:31.475</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
