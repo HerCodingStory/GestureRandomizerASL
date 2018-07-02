@@ -1,0 +1,10 @@
+/out:"D:\Documents\Visual Studio 2015\Projects\HelloWorld\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"D:\Documents\Visual Studio 2015\Projects\HelloWorld\obj\x86\Release\ilc\intermediate\\"
+/ref:"D:\Documents\Visual Studio 2015\Projects\HelloWorld\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"D:\Documents\Visual Studio 2015\Projects\HelloWorld\obj\x86\Release\ilc\intermediate\TransformedSRWR\\"
+/ref:"D:\Documents\Visual Studio 2015\Projects\HelloWorld\obj\x86\Release\ilc\in\\"
+/ref:"D:\Documents\Visual Studio 2015\Projects\HelloWorld\obj\x86\Release\ilc\in\\"
+/ref:"D:\Documents\Visual Studio 2015\Projects\HelloWorld\obj\x86\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\x86\ilc\lib\Private\\"
+/ref:"D:\Documents\Visual Studio 2015\Projects\HelloWorld\obj\x86\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib

@@ -1,0 +1,6 @@
+/In:"D:\Documents\Visual Studio 2015\Projects\HelloWorld\obj\x86\Release\ilc\in"
+/Lib:"D:\Documents\Visual Studio 2015\Projects\HelloWorld\obj\x86\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\x86\ilc\lib\Private"
+/WinMD:"D:\Documents\Visual Studio 2015\Projects\HelloWorld\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd"
+/RdXmlPath:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\LibraryXML"
+/RunOnlyPreDR
